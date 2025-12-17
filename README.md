@@ -1,11 +1,11 @@
 <div align="center">
 
 # Hi there, I'm Pankaj Joshi 👋
-### Senior Business Analyst | Data-Driven Strategy & Insights
+### Aspiring Business Analyst | Data-Driven Strategy & Insights
 
 ---
 
-*"Bridging the gap between raw data and actionable business decisions. I specialize in transforming complex datasets into interactive narratives that help stakeholders optimize processes and increase revenue."*
+*“Bridging the gap between raw data and actionable business decisions. I am self taught, specialized in transforming complex datasets into interactive narratives that help stakeholders optimize processes and increase revenue.”*
 
 ---
 
