@@ -1,0 +1,26 @@
+name: Master Portfolio Link Check
+
+on:
+  schedule:
+    - cron: '0 0 * * 0' # Runs every Sunday
+  workflow_dispatch: # Allows you to run it manually
+
+jobs:
+  check-all-repos:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        # ADD YOUR REPO NAMES HERE
+        repo: ['Blinkit-Sales-Analysis', 'Ecommerce-Sales-Data-Pipeline', 'Business-Analyst-Pankaj-Joshi']
+    
+    steps:
+      - name: Checkout specific repo
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ github.repository_owner }}/${{ matrix.repo }}
+          path: ${{ matrix.repo }}
+
+      - name: Link Checker
+        uses: lycheeverse/lychee-action@v1.9.0
+        with:
+          args: --verbose --no-progress "${{ matrix.repo }}/README.md"
