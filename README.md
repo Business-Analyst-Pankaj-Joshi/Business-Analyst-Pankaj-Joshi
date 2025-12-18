@@ -34,7 +34,11 @@
 
 ### 🤝 Get in Touch
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/pankaj-joshi-6b7868391">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:pankajmohanjoshi.official@gmail.com subject=Inquiry%20regarding%20Data%20Analyst%20Portfolio&body=Hi%20Pankaj,%0D%0A%0D%0AI%20came%20across%20your%20GitHub%20portfolio%20and%20wanted%20to%20connect%20regarding...">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Pankaj" />
+</a>
 
 </div>
