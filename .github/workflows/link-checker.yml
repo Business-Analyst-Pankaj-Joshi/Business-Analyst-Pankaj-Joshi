@@ -1,0 +1,14 @@
+name: Check Links
+on:
+  push:
+    branches: [main] # Runs every time you save a change
+
+jobs:
+  linkChecker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Link Checker
+        uses: lycheeverse/lychee-action@v1.8.0
+        with:
+          args: --verbose --no-progress README.md
