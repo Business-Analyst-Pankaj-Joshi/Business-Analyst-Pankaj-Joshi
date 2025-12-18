@@ -24,7 +24,7 @@
 
 ### 🚀 Featured Analytical Projects
 
-**[Sales Insights Dashboard](INSERT_LINK_HERE)**
+**[Sales Insights Dashboard](https://github.com/Business-Analyst-Pankaj-Joshi/Ecommerce-Sales-Data-Pipeline)**
 *Interactive Power BI dashboard using SQL & Excel.*
 
 **[Operational Efficiency Tracker](INSERT_LINK_HERE)**
