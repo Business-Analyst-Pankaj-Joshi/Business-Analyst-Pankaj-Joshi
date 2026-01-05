@@ -1,60 +1,73 @@
 <div align="center">
 
-# Hi there, I'm Pankaj Joshi 👋
-### Aspiring Business Analyst | Data-Driven Strategy & Insights
+# 🚀 Pankaj Joshi
+### **AI-Augmented Business Analyst | Data Storyteller (MJMC)**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pankaj-joshi-6b7868391)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:pankajmohanjoshi.official@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-green?style=for-the-badge&logo=github)](https://github.com/Business-Analyst-Pankaj-Joshi)
 
 ---
 
+<img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=From%20Headlines%20to%20Dashboards&fontSize=40&animation=fadeIn" width="100%" />
+
 <em>
-“Bridging the gap between raw data and actionable business decisions.  
-I am self-taught, specializing in transforming complex datasets into interactive narratives that help stakeholders optimize processes and improve outcomes.”
+"As a **Master of Journalism (MJMC)** turned **Data Analyst**, I don't just report data—I investigate it. I bridge the gap between complex datasets and strategic decisions using AI, SQL, and Power BI."
 </em>
 
 ---
 
-### 🛠 Technical Skill Stack
+### 📊 Technical Arsenal
 
-| | |
-| :--- | :--- |
-| **Data Visualization** | <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /> |
-| **Data Analysis** | <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> |
-| **Programming** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> |
-| **Project Mgmt** | <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /> <img src="https://img.shields.io/badge/Agile-Methods-blueviolet?style=for-the-badge" /> |
-
-**Domains:** Retail & E-commerce | Supply Chain & Logistics | Environmental Analytics
-
----
-
-### 🚀 Featured Analytical Projects
-
-📊 **[India AQI Sentinel – Predictive Analytics & Strategy Dashboard](https://github.com/Business-Analyst-Pankaj-Joshi/India-AQI-Sentinel)**  
-<sub>
-End-to-end analytics project using **Python (ML forecasting)**, **SQL Server (data warehousing)**, and **Power BI (executive dashboarding)** to analyze and predict India’s air quality trends.
-</sub>
-
-<br/>
-
-📈 **[Sales Insights Dashboard](https://github.com/Business-Analyst-Pankaj-Joshi/Ecommerce-Sales-Data-Pipeline)**  
-<sub>
-Interactive Power BI dashboard powered by **SQL & Excel**, focused on revenue trends, customer behavior, and business KPIs.
-</sub>
-
-<br/>
-
-⚙️ **Operational Efficiency Tracker** *(Coming Soon)*  
-<sub>
-Advanced Excel analytics with automated KPI reporting and process optimization.
-</sub>
+<table align="center">
+  <tr>
+    <td align="center" width="200"><strong>Data Visualization</strong></td>
+    <td align="center" width="200"><strong>Analysis & ML</strong></td>
+    <td align="center" width="200"><strong>AI & Strategy</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=powerbi,tableau" /><br/>
+      <sub>Advanced DAX & Storytelling</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=py,sql,excel" /><br/>
+      <sub>80% Query Optimization</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=sklearn,pandas,gmail" /><br/>
+      <sub>Prompt Engineering & AI Layers</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🤝 Get in Touch
+### 🌟 Featured Deep-Dive Projects
 
-<a href="https://www.linkedin.com/in/pankaj-joshi-6b7868391">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:pankajmohanjoshi.official@gmail.com?subject=Inquiry%20regarding%20Data%20Analyst%20Portfolio&body=Hi%20Pankaj,%0D%0A%0D%0AI%20came%20across%20your%20GitHub%20portfolio%20and%20wanted%20to%20connect%20regarding...">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Pankaj" />
-</a>
+#### 1️⃣ [India AQI Sentinel](https://github.com/Business-Analyst-Pankaj-Joshi/India-AQI-Sentinel-Predictive-Analytics-Strategy-Dashboard) (Predictive Risk Centre)
+> **The Problem:** 92.20% of months analyzed exceeded safe air limits.
+> **The Solution:** A full-stack pipeline using **Random Forest ML** to predict 2026 spikes.
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Business-Analyst-Pankaj-Joshi&repo=India-AQI-Sentinel-Predictive-Analytics-Strategy-Dashboard&theme=tokyonight" />
+
+#### 2️⃣ [DRISHTI AI Dashboard](https://github.com/Business-Analyst-Pankaj-Joshi) (Smart Intelligence Layer)
+> **The Innovation:** Multi-data fetching (AQI, Rain, News) with an **AI Intelligence Layer** that suggests actions (e.g., "Chata lelo" or "High AQI Alert").
+> **Tech:** Dynamic Filtering | Smart Alerts | Local Uttarakhand News Integration.
+
+---
+
+### 📉 GitHub Vital Signs
+
+| Activity | Streak | Top Languages |
+| :---: | :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=Business-Analyst-Pankaj-Joshi&show_icons=true&theme=tokyonight" height="150" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=Business-Analyst-Pankaj-Joshi&theme=tokyonight" height="150" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Business-Analyst-Pankaj-Joshi&layout=compact&theme=tokyonight" height="150" /> |
+
+---
+
+### 🤝 Let's Transform Your Data Together
+
+I am currently looking for **Business Analyst** roles where I can apply my **AI-augmented strategy** and **investigative data skills**. 
+
+[Get My Resume](mailto:pankajmohanjoshi.official@gmail.com) • [Follow on LinkedIn](https://www.linkedin.com/in/pankaj-joshi-6b7868391)
 
 </div>
