@@ -21,7 +21,8 @@
 
 | 📊 Data Visualization | ⚙️ Analysis & ML | 🤖 AI & Strategy |
 | :---: | :---: | :---: |
-| <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /> | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /> | <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> |
+| ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![AI](https://img.shields.io/badge/AI_Layer-FF6F61?style=for-the-badge&logo=openai&logoColor=white) |
+| ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) | ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) |
 | **Advanced DAX** | **80% Query Optimization** | **Prompt Engineering** |
 
 ---
@@ -39,7 +40,9 @@
 
 ### 📈 GitHub Vital Signs
 
-<img src="https://github-readme-stats.vercel.app/api?username=Business-Analyst-Pankaj-Joshi&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Business-Analyst-Pankaj-Joshi&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Business-Analyst-Pankaj-Joshi&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Business-Analyst-Pankaj-Joshi&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
