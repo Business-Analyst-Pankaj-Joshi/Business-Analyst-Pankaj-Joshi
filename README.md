@@ -21,8 +21,7 @@
 
 | 📊 Data Visualization | ⚙️ Analysis & ML | 🤖 AI & Strategy |
 | :---: | :---: | :---: |
-| ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![AI](https://img.shields.io/badge/AI_Layer-FF6F61?style=for-the-badge&logo=openai&logoColor=white) |
-| ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) | ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) |
+| <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" /> <br> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /> | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <br> <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /> | <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <br> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> |
 | **Advanced DAX** | **80% Query Optimization** | **Prompt Engineering** |
 
 ---
@@ -31,23 +30,21 @@
 
 #### 🛰️ [India AQI Sentinel](https://github.com/Business-Analyst-Pankaj-Joshi/India-AQI-Sentinel-Predictive-Analytics-Strategy-Dashboard) (Predictive Risk Centre)
 > **The Problem:** 92.20% of months analyzed exceeded safe air limits.
-> **The Solution:** A full-stack pipeline using **Random Forest ML** to predict 2026 spikes.
+> **The Solution:** A full-stack pipeline using **Random Forest ML**.
 
 #### 👁️ [DRISHTI AI Dashboard](https://github.com/Business-Analyst-Pankaj-Joshi) (Smart Intelligence Layer)
-> **The Innovation:** Multi-data fetching (AQI, Rain, News) with an **AI Intelligence Layer** for suggestions like "Chata lelo" or "Garm kapde pehno".
+> **The Innovation:** AI Intelligence Layer suggestions like "Chata lelo" based on local weather alerts.
 
 ---
 
 ### 📈 GitHub Vital Signs
 
-![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Business-Analyst-Pankaj-Joshi&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Business-Analyst-Pankaj-Joshi&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Business-Analyst-Pankaj-Joshi&show_icons=true&theme=tokyonight&hide_border=true" width="48%" align="center" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Business-Analyst-Pankaj-Joshi&layout=compact&theme=tokyonight&hide_border=true" width="48%" align="center" />
 
 ---
 
 ### 🤝 Let's Transform Your Data Together
-I am currently looking for **Business Analyst** roles where I can apply my **AI-augmented strategy**.
 
 [**Get My Resume**](mailto:pankajmohanjoshi.official@gmail.com) • [**Follow on LinkedIn**](https://www.linkedin.com/in/pankaj-joshi-6b7868391)
 
